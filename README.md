@@ -1,4 +1,3 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # LAB | JS Presidents
 
@@ -35,36 +34,11 @@ In this lab, we'll explore a dataset of US presidents with information about the
 
 <br>
 
-## Requirements
 
-- Fork this repo.
-- Clone this repo.
-
-<br>
-
-## Submission
-
-- Upon completion, run the following commands:
-
-```bash
-git add .
-git commit -m "Solved lab"
-git push origin master
-```
-
-- Create a Pull Request and submit your assignment
 
 <br>
 
 
-
-## Test Your Code
-
-This LAB is equipped with unit tests to provide automated feedback on your lab progress. If you want to check the tests, they are in the `tests/presidents.spec.js` file.
-
-To run the tests and your JavaScript code, open the `SpecRunner.html` file using the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) VSCode extension.
-
-To see the outputs of the `console.log` in your JavaScript code, open the [Console in the Developer Tools](https://developer.chrome.com/docs/devtools/open/#console).
 
 <br>
 
